@@ -1,0 +1,14 @@
+{
+  "project": "bhaskara-ii-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "ENADScbyFzdLi8UEva2hfEGNb9rJnQUvbFzufoFpV8Nw",
+  "vault_account": "6SY9rpZeSKLZDJeVGcqwtH6qLiiLv6GP519ED6BJP4KR",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "Cmx8VKnKN5b4JZ43S1SVMRqPyMsLpCoNdnnZ5SGDPaVUyBdAWMxrmbwU9j2EQUzaeX4QCk277onzkTTpCdqC7Wb",
+  "account_tx": "2RqhuTQjQKCaiqdbpF4kGBEXH9ZeAXN8oYArUNrbTFQi9LunVCe3DVVK9aPuR9MJ5FoAcnZLqVnp673ZF1QcqHS7",
+  "mint_tx": "5tfNfa3wVB4AzMkTNsVDSgdusFqKXsLCtAovBZA1w13cTydsmTNyfBFCiFE9naQMrD3HkJ6eFMD4H6BUcL6ouCK6",
+  "solana_explorer_mint": "https://explorer.solana.com/address/ENADScbyFzdLi8UEva2hfEGNb9rJnQUvbFzufoFpV8Nw?cluster=devnet",
+  "timestamp": "2026-10-26 16:22:32 UTC"
+}
